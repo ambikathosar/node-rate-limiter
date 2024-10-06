@@ -1,1 +1,1 @@
-# rate-limiter-node
+# node-rate-limit
